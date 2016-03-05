@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DefaultBarColor</key>
+	<string>246,46,55</string>
+	<key>NewBarColor</key>
+	<string>17,17,17</string>
+	<key>tabBarDefaultColor</key>
+	<string>245,245,245</string>
+	<key>tabBarNewColor</key>
+	<string>17,17,17</string>
+	<key>tabBarItemNewColor</key>
+	<string>54,54,54</string>
+	<key>tabBarItemNewLowerColor</key>
+	<string>46,46,46</string>
+	<key>tabBarItemDefaultColor</key>
+	<string>246,46,55</string>
+	<key>VCDefaultColor</key>
+	<string>236,236,236</string>
+	<key>VCNewColor</key>
+	<string>17,17,17</string>
+	<key>FontDefaultColor</key>
+	<string>0,0,0</string>
+	<key>FontNewColor</key>
+	<string>113,113,113</string>
+	<key>Cell_01_DefaultColor</key>
+	<string>255,255,255</string>
+	<key>Cell_01_NewColor</key>
+	<string>17,17,17</string>
+	<key>Cell_02_DefaultColor</key>
+	<string>255,255,255</string>
+	<key>Cell_02_NewColor</key>
+	<string>25,25,25</string>
+	<key>bgCellDefaultColor</key>
+	<string>236,236,236</string>
+	<key>bgCellNewColor</key>
+	<string>36,36,36</string>
+	<key>BottomViewDefaultColor</key>
+	<string>246,246,246</string>
+	<key>BottomViewNewColor</key>
+	<string>54,54,54</string>
+</dict>
+</plist>
