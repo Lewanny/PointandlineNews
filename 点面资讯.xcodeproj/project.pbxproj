@@ -90,10 +90,10 @@
 		CAA998FC1BF495470077C058 /* LhyEnjoy_02TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CAA998FB1BF495470077C058 /* LhyEnjoy_02TableViewCell.m */; };
 		CAA998FF1BF4955B0077C058 /* LhyEnjoy_03TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CAA998FE1BF4955B0077C058 /* LhyEnjoy_03TableViewCell.m */; };
 		CAA999051BF4BA770077C058 /* LhyComunity_01_TopCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CAA999041BF4BA770077C058 /* LhyComunity_01_TopCollectionViewCell.m */; };
+		CAAA72F11C8B30FC00DD6FF0 /* Lhy_Community_Video_ListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CAAA72F01C8B30FC00DD6FF0 /* Lhy_Community_Video_ListModel.m */; };
 		CAAD409F1BFC1352009412F7 /* LhyCommunity_04_MovieCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CAAD409E1BFC1352009412F7 /* LhyCommunity_04_MovieCollectionViewCell.m */; };
 		CAAD40A21BFC182F009412F7 /* LhyTMovie_01_ableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CAAD40A11BFC182F009412F7 /* LhyTMovie_01_ableViewCell.m */; };
 		CAAD40A51BFC1841009412F7 /* LhyTMovie_02_ableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CAAD40A41BFC1841009412F7 /* LhyTMovie_02_ableViewCell.m */; };
-		CAAD40AB1BFC2DED009412F7 /* Lhy_Community_Video_ListModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CAAD40AA1BFC2DED009412F7 /* Lhy_Community_Video_ListModel.m */; };
 		CAAD40AE1BFC2E0D009412F7 /* Lhy_Community_Video_SidLstModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CAAD40AD1BFC2E0D009412F7 /* Lhy_Community_Video_SidLstModel.m */; };
 		CAAD40B11BFC5D52009412F7 /* LhySearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CAAD40B01BFC5D52009412F7 /* LhySearchViewController.m */; };
 		CAAD40B41BFCA4DB009412F7 /* LhySearchModel.m in Sources */ = {isa = PBXBuildFile; fileRef = CAAD40B31BFCA4DB009412F7 /* LhySearchModel.m */; };
@@ -318,14 +318,14 @@
 		CAA998FE1BF4955B0077C058 /* LhyEnjoy_03TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LhyEnjoy_03TableViewCell.m; sourceTree = "<group>"; };
 		CAA999031BF4BA770077C058 /* LhyComunity_01_TopCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LhyComunity_01_TopCollectionViewCell.h; sourceTree = "<group>"; };
 		CAA999041BF4BA770077C058 /* LhyComunity_01_TopCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LhyComunity_01_TopCollectionViewCell.m; sourceTree = "<group>"; };
+		CAAA72EF1C8B30FC00DD6FF0 /* Lhy_Community_Video_ListModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lhy_Community_Video_ListModel.h; sourceTree = "<group>"; };
+		CAAA72F01C8B30FC00DD6FF0 /* Lhy_Community_Video_ListModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Lhy_Community_Video_ListModel.m; sourceTree = "<group>"; };
 		CAAD409D1BFC1352009412F7 /* LhyCommunity_04_MovieCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LhyCommunity_04_MovieCollectionViewCell.h; sourceTree = "<group>"; };
 		CAAD409E1BFC1352009412F7 /* LhyCommunity_04_MovieCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LhyCommunity_04_MovieCollectionViewCell.m; sourceTree = "<group>"; };
 		CAAD40A01BFC182F009412F7 /* LhyTMovie_01_ableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LhyTMovie_01_ableViewCell.h; sourceTree = "<group>"; };
 		CAAD40A11BFC182F009412F7 /* LhyTMovie_01_ableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LhyTMovie_01_ableViewCell.m; sourceTree = "<group>"; };
 		CAAD40A31BFC1841009412F7 /* LhyTMovie_02_ableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LhyTMovie_02_ableViewCell.h; sourceTree = "<group>"; };
 		CAAD40A41BFC1841009412F7 /* LhyTMovie_02_ableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LhyTMovie_02_ableViewCell.m; sourceTree = "<group>"; };
-		CAAD40A91BFC2DED009412F7 /* Lhy_Community_Video_ListModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Lhy_Community_Video_ListModel.h; path = ../../../Lhy_Community_Video_ListModel.h; sourceTree = "<group>"; };
-		CAAD40AA1BFC2DED009412F7 /* Lhy_Community_Video_ListModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Lhy_Community_Video_ListModel.m; path = ../../../Lhy_Community_Video_ListModel.m; sourceTree = "<group>"; };
 		CAAD40AC1BFC2E0D009412F7 /* Lhy_Community_Video_SidLstModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lhy_Community_Video_SidLstModel.h; sourceTree = "<group>"; };
 		CAAD40AD1BFC2E0D009412F7 /* Lhy_Community_Video_SidLstModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Lhy_Community_Video_SidLstModel.m; sourceTree = "<group>"; };
 		CAAD40AF1BFC5D52009412F7 /* LhySearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LhySearchViewController.h; sourceTree = "<group>"; };
@@ -981,12 +981,12 @@
 		CAC37D8A1BEDAB7600189923 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				CAAA72EF1C8B30FC00DD6FF0 /* Lhy_Community_Video_ListModel.h */,
+				CAAA72F01C8B30FC00DD6FF0 /* Lhy_Community_Video_ListModel.m */,
 				CA96ADE71BF5FEE2009FD6B8 /* LhyCommunity_DiscoveryModel.h */,
 				CA96ADE81BF5FEE2009FD6B8 /* LhyCommunity_DiscoveryModel.m */,
 				CA2FBC331BF6C45E00EE67B7 /* LhyCommunity_SelectedModel.h */,
 				CA2FBC341BF6C45E00EE67B7 /* LhyCommunity_SelectedModel.m */,
-				CAAD40A91BFC2DED009412F7 /* Lhy_Community_Video_ListModel.h */,
-				CAAD40AA1BFC2DED009412F7 /* Lhy_Community_Video_ListModel.m */,
 				CAAD40AC1BFC2E0D009412F7 /* Lhy_Community_Video_SidLstModel.h */,
 				CAAD40AD1BFC2E0D009412F7 /* Lhy_Community_Video_SidLstModel.m */,
 			);
@@ -1218,6 +1218,7 @@
 				CAF7EB701BFADB900061F3C0 /* LhyEnjoy_MoreViewController.m in Sources */,
 				CA8E03FA1BF0CFEE00D465F0 /* LhyMainTb_01_01CollectionViewCell.m in Sources */,
 				CAFB78BA1BF044C200CA7A82 /* UIImage+MultiFormat.m in Sources */,
+				CAAA72F11C8B30FC00DD6FF0 /* Lhy_Community_Video_ListModel.m in Sources */,
 				CAC37D291BED82BF00189923 /* AFURLResponseSerialization.m in Sources */,
 				CA561BD21BFF90840066722A /* LhyRotationViewController.m in Sources */,
 				CA8E04001BF0D01600D465F0 /* LhyMainTb_01_03CollectionViewCell.m in Sources */,
@@ -1252,7 +1253,6 @@
 				CAFB78B91BF044C200CA7A82 /* UIImage+GIF.m in Sources */,
 				CA534C1A1C02DE1D00DCF206 /* LhyAboutUsViewController.m in Sources */,
 				CAFB78B41BF044C200CA7A82 /* SDWebImageDownloader.m in Sources */,
-				CAAD40AB1BFC2DED009412F7 /* Lhy_Community_Video_ListModel.m in Sources */,
 				CA534C681C04AD7C00DCF206 /* LhyUserDataHanlder.m in Sources */,
 				CAC37D231BED82BF00189923 /* AFHTTPRequestOperationManager.m in Sources */,
 				CA1A4E7E1BF7508E00DF8E8B /* UIView+MJExtension.m in Sources */,
