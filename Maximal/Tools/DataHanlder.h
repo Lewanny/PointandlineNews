@@ -1,9 +1,8 @@
 //
 //  DataHanlder.h
-//  UI12_UITableView综合(豆瓣简单版本)
 //
 //  Created by 李宏远 on 15/10/28.
-//  Copyright © 2015年 刘云强. All rights reserved.
+//  Copyright © 2015年 李宏远. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

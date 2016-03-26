@@ -3,7 +3,7 @@
 //  Maximal
 //
 //  Created by 李宏远 on 15/11/7.
-//  Copyright © 2015年 李宏远. All rights reserved.
+//  Copyright © 2015年 i. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
